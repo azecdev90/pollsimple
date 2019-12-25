@@ -1,0 +1,95 @@
+/* Pollsimple CSS styles */
+
+body
+{
+  background-color:#EFF0F4;
+}
+
+/* Main container styles */
+
+#main
+{
+  position:relative;
+  top:50px;
+  width:700px;
+  margin:0 auto;
+  color: black;
+  font-family: "Open sans", Arial, sans-serif;
+  color:#445160;
+}
+
+#main p
+{
+  font-size:14px;
+  color:#445160;
+  line-height: 1.642857143;
+}
+
+.space
+{
+  margin-bottom:10px;
+}
+
+.online
+{
+  display:inline;
+}
+
+input[type=submit]
+{
+  margin-top:25px;
+  background:#64ceaa;
+  border:0;
+  float:left;
+  padding:5px 15px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  color:white;
+}
+
+#main a
+{
+  position:relative;
+  top:14px;
+  margin-left:10px;
+  padding:5px 15px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+button
+{
+    display:inline;
+}
+
+#form
+{
+  float:left;
+}
+
+/* Results div - loaded with Ajax */
+
+#results
+{
+  margin-left:80px;
+  float:left;
+}
+
+#results strong
+{
+  margin-left:10px;
+  display:inline;
+  font-weight:normal;
+}
+
+
+#form button
+{
+  margin-top:5px;
+  color:white;
+  background-color:#4064ac;
+  padding:5px 15px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  border:0px;
+}
