@@ -58,7 +58,7 @@ Frontend side of this project consist from few things.
  2. Css,JS and images are folders in Assets folder and they keep this files for better organisation
  3. Result page is loaded through Jquery with AJAX
  
- ![alt text](https://user-images.githubusercontent.com/25035726/71424117-0f792d80-268f-11ea-82e9-768a8bfe70a2.png)
+ ![Example frontend index.php](https://user-images.githubusercontent.com/58860019/71444974-29aa1e80-2716-11ea-8244-981cab8c29be.png)
  
 
 # Backend perspective
