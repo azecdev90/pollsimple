@@ -1,5 +1,5 @@
 # Pollsimple
-Pollsimple is simple web application for voting. Application offer some basic functionality like others votings and ratings system on the web. Special features of this project is AJAX integration with Jquery. For more detailed informations about features in this project you can use table of contents. ![GitHub](https://img.shields.io/github/license/testiranjephp/dqdq?color=%2364ceaa)
+Pollsimple is simple web application for voting. Application offer some basic functionality like others votings and ratings system on the web. Special features of this project is AJAX integration with Jquery. For more detailed informations about features in this project you can use table of contents.
 
 
 
